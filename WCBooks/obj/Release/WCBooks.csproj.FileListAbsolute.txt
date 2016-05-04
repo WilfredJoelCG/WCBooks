@@ -1,0 +1,20 @@
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\WCBooks.dll.config
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\WCBooks.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\WCBooks.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\BLL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\BLL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\bin\DAL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\obj\Release\WCBooks.csprojResolveAssemblyReference.cache
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\obj\Release\WCBooks.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\WCBooks\obj\Release\WCBooks.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\WCBooks.dll.config
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\WCBooks.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\WCBooks.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\BLL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\DAL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\BLL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\bin\DAL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\obj\Release\WCBooks.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\obj\Release\WCBooks.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\WCBooks\obj\Release\WCBooks.pdb

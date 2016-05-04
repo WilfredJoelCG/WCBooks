@@ -1,0 +1,14 @@
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Release\BLL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Release\BLL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Release\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Release\DAL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Release\BLL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Release\BLL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\bin\Release\BLL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\bin\Release\BLL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\bin\Release\DAL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\bin\Release\DAL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\obj\Release\BLL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\BLL\obj\Release\BLL.pdb

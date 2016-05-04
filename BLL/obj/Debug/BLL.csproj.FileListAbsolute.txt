@@ -1,0 +1,21 @@
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Debug\BLL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Debug\BLL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Debug\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\bin\Debug\DAL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Debug\BLL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\BLL\obj\Debug\BLL.pdb
+G:\WCBooks\BLL\bin\Debug\BLL.dll
+G:\WCBooks\BLL\bin\Debug\BLL.pdb
+G:\WCBooks\BLL\bin\Debug\DAL.dll
+G:\WCBooks\BLL\bin\Debug\DAL.pdb
+G:\WCBooks\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\WCBooks\BLL\obj\Debug\BLL.dll
+G:\WCBooks\BLL\obj\Debug\BLL.pdb
+C:\Users\Root\Desktop\WCBooks\BLL\bin\Debug\BLL.dll
+C:\Users\Root\Desktop\WCBooks\BLL\bin\Debug\BLL.pdb
+C:\Users\Root\Desktop\WCBooks\BLL\bin\Debug\DAL.dll
+C:\Users\Root\Desktop\WCBooks\BLL\bin\Debug\DAL.pdb
+C:\Users\Root\Desktop\WCBooks\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\WCBooks\BLL\obj\Debug\BLL.dll
+C:\Users\Root\Desktop\WCBooks\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCBooks", "WCBooks\WCBooks.csproj", "{6EB9D548-F0D6-4150-AF8B-61A453E3BE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F8598423-2693-4919-8AC2-5F5B59A9A9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{81B41E44-0C00-4F81-8BAD-5ECA763DB312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB9D548-F0D6-4150-AF8B-61A453E3BE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9D548-F0D6-4150-AF8B-61A453E3BE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9D548-F0D6-4150-AF8B-61A453E3BE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9D548-F0D6-4150-AF8B-61A453E3BE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8598423-2693-4919-8AC2-5F5B59A9A9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8598423-2693-4919-8AC2-5F5B59A9A9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8598423-2693-4919-8AC2-5F5B59A9A9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8598423-2693-4919-8AC2-5F5B59A9A9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B41E44-0C00-4F81-8BAD-5ECA763DB312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B41E44-0C00-4F81-8BAD-5ECA763DB312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B41E44-0C00-4F81-8BAD-5ECA763DB312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B41E44-0C00-4F81-8BAD-5ECA763DB312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

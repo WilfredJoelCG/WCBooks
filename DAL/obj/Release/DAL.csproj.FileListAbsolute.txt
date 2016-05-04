@@ -1,0 +1,9 @@
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\bin\Release\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\bin\Release\DAL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\obj\Release\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\obj\Release\DAL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\DAL\bin\Release\DAL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\DAL\bin\Release\DAL.pdb
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\DAL\obj\Release\DAL.dll
+C:\Users\Root\Desktop\1-2016\Wilfred\WCBooks\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\bin\Debug\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\bin\Debug\DAL.pdb
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\obj\Debug\DAL.dll
+C:\Users\Arlette Espinal\Documents\Visual Studio 2013\Projects\WCBooks\DAL\obj\Debug\DAL.pdb
+G:\WCBooks\DAL\bin\Debug\DAL.dll
+G:\WCBooks\DAL\bin\Debug\DAL.pdb
+G:\WCBooks\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\WCBooks\DAL\obj\Debug\DAL.dll
+G:\WCBooks\DAL\obj\Debug\DAL.pdb
+C:\Users\Root\Desktop\WCBooks\DAL\bin\Debug\DAL.dll
+C:\Users\Root\Desktop\WCBooks\DAL\bin\Debug\DAL.pdb
+C:\Users\Root\Desktop\WCBooks\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\WCBooks\DAL\obj\Debug\DAL.dll
+C:\Users\Root\Desktop\WCBooks\DAL\obj\Debug\DAL.pdb
